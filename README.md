@@ -10,7 +10,7 @@
 <h2>Certifications</h2>
 
   - [Foundations of Cybersecurity](https://coursera.org/share/35e7671f68ba535ffa0d720be48ea13f)
-
+  - [Play It Safe: Manage Security Risks](https://coursera.org/share/33f59037f5707ccc1e2ddef5bdf80f3d)
 
 <h2> 🤳 Connect with me:</h2>
 
