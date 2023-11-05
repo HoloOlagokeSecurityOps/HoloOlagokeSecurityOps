@@ -1,4 +1,4 @@
-<h1>Hi, I'm Holo!</h1>
+<h1>Hi, I'm Holo Olagoke!</h1>
 
 <h2>Cybersecurity Projects:</h2>
 
@@ -12,15 +12,17 @@
   - [Foundations of Cybersecurity](https://coursera.org/share/35e7671f68ba535ffa0d720be48ea13f)
   - [Play It Safe: Manage Security Risks](https://coursera.org/share/33f59037f5707ccc1e2ddef5bdf80f3d)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="HoloOlagoke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HoloOlagoke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HoloOlagoke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HoloOlagoke | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/olarragoken
 [instagram]: https://www.instagram.com/holoolagoke/
 [linkedin]: https://www.linkedin.com/in/olagoke-holo-212590272
+[facebook]: https://web.facebook.com/olagoke.holo.3/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
