@@ -7,6 +7,13 @@
   - [Control Categories](https://docs.google.com/document/d/1CJvBY5NHWHD4WIi6Ut8A2cRFKJx2-T1DadQyOhiFnDU/edit?usp=drive_link&resourcekey=0--VCdurKHe5yq24r0EMnLCg)
   - [Controls and Compliance Checklist](https://docs.google.com/document/d/1uFcPG1YbM2Enfony2zKtxJUt869yvunXmLR530JKrLs/edit?usp=drive_link)
  
+- <b>Yummy Reciepes for me Company</b>
+  - [NETWORK TRAFFIC ANALYSIS]
+    - [Cybersecurity incident report network traffic analysis](https://docs.google.com/document/d/1gvwQR5DRX-_E4_hUMjhW_3LUxEXwB_8G5nF9br3TUtQ/edit?usp=drive_link&resourcekey=0-nIu_GTk9V03mh-uMb-B-GA)
+    - [Network Traffic Log](https://docs.google.com/document/d/1lCLnx0bigOZwH0Jp8uUBx5O4Gy5yqxjQDc5GFo_XWko/edit?usp=drive_link)
+  - BRUTE FORCE ATTACK
+    - [DNS & HTTP Traffic Log](https://docs.google.com/document/d/1cybgKs-biF4SpiigCwdBicbOmCZ65LO8kx4OlLmGo4Y/edit?usp=drive_link&resourcekey=0-exso31cdETPGQSANGUXbgw)
+ 
 <h2>Certifications</h2>
 
   - [Foundations of Cybersecurity](https://coursera.org/share/35e7671f68ba535ffa0d720be48ea13f)
