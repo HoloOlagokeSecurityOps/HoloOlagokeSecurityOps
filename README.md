@@ -2,20 +2,26 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Google Cybersecurity Training (Botium Security Audit)</b>
-  - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/14ginf-wIYJjFdAtzgxB3-bTD-zRo4sEVqHFd3Tlbzu0/edit?usp=drive_link)
-  - [Controls and Compliance Checklist](https://docs.google.com/document/d/1uFcPG1YbM2Enfony2zKtxJUt869yvunXmLR530JKrLs/edit?usp=drive_link)
+<h3><b>Google Cybersecurity Training (Travel Agency)</b></h3>
 
-- <b>Google Cybersecurity Training (Travel Agency)</b>
   - [Cybersecurity Incident Report Wireshark TCP/HTTP Log](https://docs.google.com/document/d/1i6D4PJEMNbyiCAJvq3Y6cBmjCnHx8JG0ch7C5OZmbSE/edit?usp=drive_link)
  
-- <b>Google Cybersecurity Training (Yummy Reciepes Company)</b>
-      <p>[NETWORK TRAFFIC ANALYSIS]</p>
+<h3><b>Google Cybersecurity Training (Yummy Reciepes Company)</b></h3>
+
+  [NETWORK TRAFFIC ANALYSIS]
+
   - [Cybersecurity incident report network traffic analysis](https://docs.google.com/document/d/1gvwQR5DRX-_E4_hUMjhW_3LUxEXwB_8G5nF9br3TUtQ/edit?usp=drive_link&resourcekey=0-nIu_GTk9V03mh-uMb-B-GA)
   - [Network Traffic Log](https://docs.google.com/document/d/1lCLnx0bigOZwH0Jp8uUBx5O4Gy5yqxjQDc5GFo_XWko/edit?usp=drive_link)
-  <p>[BRUTE FORCE ATTACK]</p>
+
+  [BRUTE FORCE ATTACK]
+
   - [DNS & HTTP Traffic Log](https://docs.google.com/document/d/1cybgKs-biF4SpiigCwdBicbOmCZ65LO8kx4OlLmGo4Y/edit?usp=drive_link&resourcekey=0-exso31cdETPGQSANGUXbgw)
   - [Security Incident Report](https://docs.google.com/document/d/1C-EUcX16l8Jy1YKrL4NobS0yticPwZ_JxIYrnCPdgZk/edit?usp=sharing&resourcekey=0-n24_QSC8zphpZWZ_fZ3qYQ)
+
+<h3><b>Google Cybersecurity Training (Botium Security Audit)</b></h3>
+
+  - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/14ginf-wIYJjFdAtzgxB3-bTD-zRo4sEVqHFd3Tlbzu0/edit?usp=drive_link)
+  - [Controls and Compliance Checklist](https://docs.google.com/document/d/1uFcPG1YbM2Enfony2zKtxJUt869yvunXmLR530JKrLs/edit?usp=drive_link)
  
 <h2>Certifications</h2>
 
