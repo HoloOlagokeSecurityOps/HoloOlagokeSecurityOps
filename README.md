@@ -1,6 +1,8 @@
 <h1>Hi, I'm Holo Olagoke!</h1>
 
-<h2>Cybersecurity Projects:</h2>
+<p>I am aspiring and dedicated Cyber-security enthusiast seeking to leverage theoretical knowledge, hands-on experience, and continuous self-education to contribute to a dynamic team. Eager to apply acquired skills and grow within a professional environment while actively learning and adapting to the latest industry trends.</p>
+
+<h2>CYBERSECURITY PROJECTS:</h2>
 
 <h3><b>Google Cybersecurity Training (Travel Agency)</b></h3>
 
@@ -23,11 +25,13 @@
   - [Botium Toys: Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/14ginf-wIYJjFdAtzgxB3-bTD-zRo4sEVqHFd3Tlbzu0/edit?usp=drive_link)
   - [Controls and Compliance Checklist](https://docs.google.com/document/d/1uFcPG1YbM2Enfony2zKtxJUt869yvunXmLR530JKrLs/edit?usp=drive_link)
  
-<h2>Certifications</h2>
+<h2>CERTIFICATIONS</h2>
 
-  - [Connect and Protect: Networks and Network Security](https://coursera.org/share/50c7fbaf69a134a3700ad4d239c25d24)
+  - [Google Cybersecurity: Linux and SQL](https://coursera.org/share/5932f18fbd2849caf7864604350263bc)
+  - [Coursera Project Network: Wireshark for Beginners - capture packets](https://coursera.org/share/80d66ff5a7af76f898d09af6325fb509)
+  - [Yonsei University: Introduction to TCP/IP](https://coursera.org/share/a4c6f11634d6eb722fa11441927ded77)
 
-<h2> Connect with me:</h2>
+<h2> SOCIAL MEDIA:</h2>
 
 [<img align="left" alt="HoloOlagoke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HoloOlagoke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
