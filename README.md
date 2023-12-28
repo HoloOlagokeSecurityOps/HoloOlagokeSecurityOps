@@ -4,6 +4,14 @@
 
 <h2>CYBERSECURITY PROJECTS:</h2>
 
+- <h3><b>Google Cybersecurity Training (SQL Queries)</b></h3>
+
+    - [Apply Filter to SQL Queries](https://docs.google.com/document/d/1zi7Hpj_sc_XxOjngXCr4dnBOKLQQ3wLWNR7dd2vfK94/edit?usp=drive_link)
+
+- <h3><b>Google Cybersecurity Training (Linux Command Line)</b></h3>
+
+    - [File Permission in Linux](https://docs.google.com/document/d/1ROYN7iOvOfgJkUc9sh_rtpVFPNfozloNMupXTvUlh84/edit?usp=drive_link)
+
 - <h3><b>Google Cybersecurity Training (Travel Agency)</b></h3>
 
     - [Cybersecurity Incident Report Wireshark TCP/HTTP Log](https://docs.google.com/document/d/1i6D4PJEMNbyiCAJvq3Y6cBmjCnHx8JG0ch7C5OZmbSE/edit?usp=drive_link)
