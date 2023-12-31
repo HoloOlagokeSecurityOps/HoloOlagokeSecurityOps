@@ -4,6 +4,10 @@
 
 <h2>CYBERSECURITY PROJECTS:</h2>
 
+- <h3><b>Google Cybersecurity Training (Commercial bank)</b></h3>
+
+    - [Risk Assessment](https://docs.google.com/document/d/17s3diCDBkui4cqlrx0GnBypdzLHCx4W-GJuVdpSKd0A/edit?usp=drive_link&resourcekey=0-NchTWZfUkloYoYl1PDlgQQ)
+
 - <h3><b>Google Cybersecurity Training (SQL Queries)</b></h3>
 
     - [Apply Filter to SQL Queries](https://docs.google.com/document/d/1zi7Hpj_sc_XxOjngXCr4dnBOKLQQ3wLWNR7dd2vfK94/edit?usp=drive_link)
