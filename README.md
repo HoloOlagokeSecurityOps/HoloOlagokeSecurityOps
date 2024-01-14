@@ -10,9 +10,33 @@
 
 <h2>CYBERSECURITY PROJECTS:</h2>
 
+- <h3><b>Google Cybersecurity Training (Educational Technology Company)</b></h3>
+
+    - [Risk Assessment](https://docs.google.com/document/d/17s3diCDBkui4cqlrx0GnBypdzLHCx4W-GJuVdpSKd0A/edit?usp=drive_link&resourcekey=0-NchTWZfUkloYoYl1PDlgQQ)
+ 
+      <ul>
+          <li>Performed risk management registration</li>
+          <li>Scored assest risk according to likehood, severity and priority.</li>
+      </ul>
+
 - <h3><b>Google Cybersecurity Training (Commercial bank)</b></h3>
 
     - [Risk Assessment](https://docs.google.com/document/d/17s3diCDBkui4cqlrx0GnBypdzLHCx4W-GJuVdpSKd0A/edit?usp=drive_link&resourcekey=0-NchTWZfUkloYoYl1PDlgQQ)
+ 
+      <ul>
+          <li>Performed risk management registration</li>
+          <li>Scored assest risk according to likehood, severity and priority.</li>
+      </ul>
+
+- <h3><b>Google Cybersecurity Training (Classification of assets connected to a home network)</b></h3>
+
+    - [Assest Classification](https://docs.google.com/spreadsheets/d/1jLy7DJPz4Gl_nj9xS6O5HrUt3riw5J1Lj3zC4G8KvqQ/edit?usp=drive_link&resourcekey=0-TOZDx8-aOswoWCSjadYbpQ)
+  
+      <ul>
+          <li>Classified assest according to importance and risk</li>
+          <li>Describe device that can assess home network frequency and occationally.</li>
+          <li> Classified the sensitivity information of network devices.</li>
+      </ul>
 
 - <h3><b>Google Cybersecurity Training (SQL Queries)</b></h3>
 
