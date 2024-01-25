@@ -37,10 +37,7 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 50px; height: 50px;"></a>
-
   <a href="https://twitter.com/olarragoken"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 50px; height: 50px;"></a>
-
   <a href="https://www.instagram.com/holoolagoke/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 50px; height: 50px;"></a>
-
   <a href="https://web.facebook.com/olagoke.holo.3/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloOlagoke | Instagram" style="width: 50px; height: 50px;"></a>
 </div>
