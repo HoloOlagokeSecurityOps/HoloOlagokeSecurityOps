@@ -3,14 +3,10 @@
 I am aspiring and dedicated Cyber-security enthusiast seeking to leverage theoretical knowledge, hands-on experience, and continuous self-education to contribute to a dynamic team. Eager to apply acquired skills and grow within a professional environment while actively learning and adapting to the latest industry trends.
 
 <br>
-
-<img align="center" alt="GIF" src="../HoloOlagokeSecurityOps/Project/icon/Cybersecurity.jpg" style="width: 360px; height: 250px"/>
-
-<br>
   
 # CERTIFICATE:
 
-- <a href="https://coursera.org/share/5932f18fbd2849caf7864604350263bc">Linux and SQL</a>
+- <a href="https://coursera.org/share/5932f18fbd2849caf7864604350263bc">Google  Cybersecurity Professional</a>
 
 - <a href="https://coursera.org/share/80d66ff5a7af76f898d09af6325fb509">Wireshark for Beginners - capture packets</a>
 
