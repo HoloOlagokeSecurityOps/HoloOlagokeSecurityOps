@@ -64,6 +64,7 @@ I used ``` sudo apt list --install ``` to view all installed app on the Linux ma
 ### Tools Used
 
 - Linux OS
+- Bash
 
 ### Achievement
 
