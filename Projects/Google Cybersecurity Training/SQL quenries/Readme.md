@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -15,7 +15,7 @@
 
 
 
-### The challenge
+### The objective
 
 - Screenshots of queries or typed versions of the queries
 

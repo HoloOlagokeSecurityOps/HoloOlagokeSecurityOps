@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Links](#links)
 - [My process](#my-process)
   - [Achievement](#achievement)
@@ -40,7 +40,7 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 - Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
 
-### The challenge
+### The objective
 
 - Identifies the type of attack and the systems impacted by the incident
 

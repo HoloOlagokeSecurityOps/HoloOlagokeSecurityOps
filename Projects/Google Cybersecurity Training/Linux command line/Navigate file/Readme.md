@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,7 +19,7 @@ Here’s how you’ll do this: First, you’ll get the information of the curren
 
 To complete these tasks, you'll need to use commands that you've previously learned in this course. Well, it's time to practice what you’ve learned. Let’s do this!
 
-### The challenge
+### The objective
 
 - Find your current working directory and display its contents
 

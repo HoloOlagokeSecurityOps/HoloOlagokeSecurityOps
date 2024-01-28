@@ -1,7 +1,7 @@
 # Google Cybersecurity Professional - Manage files in Linux OS
 
 ## Table of contents
-
+objective
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)

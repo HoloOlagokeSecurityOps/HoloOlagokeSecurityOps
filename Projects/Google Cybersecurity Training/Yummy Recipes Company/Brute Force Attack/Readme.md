@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -46,7 +46,7 @@ The cybersecurity team reports that the web server was impacted by a brute force
 
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website.  You should also recommend a security action to take to prevent brute force attacks in the future.
 
-### The challenge
+### The objective
 
 - Name one network protocol identified during the investigation
 

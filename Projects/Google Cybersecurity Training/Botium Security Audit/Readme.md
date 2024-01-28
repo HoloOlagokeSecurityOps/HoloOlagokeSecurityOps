@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,7 +14,7 @@
 
 ## Overview
 
-### The challenge
+### The objective
 
 ### Screenshot
 

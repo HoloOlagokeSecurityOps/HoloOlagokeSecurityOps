@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,7 +19,7 @@ In this scenario, you have to install, uninstall, and reinstall these applicatio
 
 Here’s how you'll do this: First, you’ll confirm that APT is installed on your Linux Bash shell. Next, you’ll use APT to install the Suricata application and confirm that it is installed. Then, you’ll uninstall the Suricata application and confirm this as well. Next, you’ll install the tcpdump application and list the applications currently installed. Finally, you’ll reinstall the Suricata application and confirm that both applications are installed.
 
-### The challenge
+### The objective
 
 - Confirm APT is installed in Bash
 

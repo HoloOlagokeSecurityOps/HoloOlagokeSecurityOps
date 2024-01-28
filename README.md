@@ -30,13 +30,13 @@ I am aspiring and dedicated Cyber-security enthusiast seeking to leverage theore
 
 # PROJECTS:
 
-- <a href="./Project/Google Cybersecurity/" style="font-size: 20px;"> Google Cybersecurity Training</a>
+- <a href="./Projects/Google Cybersecurity Training/" style="font-size: 20px;"> Google Cybersecurity Training</a>
 
 <br>
 
 # SOCIAL MEDIA:
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 30px; height: 50px;"></a> 
   <a href="https://twitter.com/olarragoken"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 30px; height: 50px;"></a>
   <a href="https://www.instagram.com/holoolagoke/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a>

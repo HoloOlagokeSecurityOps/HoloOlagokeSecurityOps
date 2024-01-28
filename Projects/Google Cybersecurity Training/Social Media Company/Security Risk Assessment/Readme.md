@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Links](#links)
 - [My process](#my-process)
   - [Achievement](#achievement)
@@ -28,7 +28,7 @@ If no action is taken to address these vulnerabilities, the organization is at r
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
 
-### The challenge
+### The objective
 
 - OMention 0ne to three network hardening tools and methods.
 

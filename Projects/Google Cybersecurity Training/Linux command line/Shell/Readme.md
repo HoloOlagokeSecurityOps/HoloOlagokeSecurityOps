@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -21,7 +21,7 @@ Here’s how you’ll do this: First, you’ll use the echo command to generate 
 
 Get ready to examine input and output in the Bash shell!
 
-### The challenge
+### The objective
 
 - Generate output in the shell the echo command
 

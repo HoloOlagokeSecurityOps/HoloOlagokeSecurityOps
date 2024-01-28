@@ -15,19 +15,23 @@ objective# Google Cybersecurity Professional - Installation in Linux OS
 
 ## Overview
 
-Your role as a security analyst requires that you have the Suricata and tcpdump network security applications installed on your system.
+In this scenario, all of the files in your home directory have been encrypted. You’ll need to use Linux commands to break the Caesar cipher and decrypt the files so that you can read the hidden messages they contain.
 
-In this scenario, you have to install, uninstall, and reinstall these applications on your Linux Bash shell. You also need to confirm that you’ve installed them correctly.
+Here’s how you’ll do this task: First, you’ll explore the contents of the home directory and read the contents of a file. Next, you’ll find a hidden file and decrypt the Caesar cipher it contains. Finally, you’ll decrypt the encrypted data file to recover your data and reveal the hidden message.
 
-Here’s how you'll do this: First, you’ll confirm that APT is installed on your Linux Bash shell. Next, you’ll use APT to install the Suricata application and confirm that it is installed. Then, you’ll uninstall the Suricata application and confirm this as well. Next, you’ll install the tcpdump application and list the applications currently installed. Finally, you’ll reinstall the Suricata application and confirm that both applications are installed.
+OK, it's time to decrypt some messages in Linux!
 
 ### The challenge
 
-- Check permissions for files in a directory
+- List the contents of a directory
 
-- Check for incorrect file permissions and change permissions as needed
+- Read the contents of files
 
-- Remove unauthorized access to a directory
+- Use Linux commands to revert a classical cipher back to plaintext
+
+- Decrypt an encrypted file and restore the file to its original state
+
+
 
 ### Screenshot
 
