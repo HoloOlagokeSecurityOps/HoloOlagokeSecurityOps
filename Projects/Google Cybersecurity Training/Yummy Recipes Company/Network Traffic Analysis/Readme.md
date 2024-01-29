@@ -43,6 +43,7 @@ This indicate that the company server has been attacked with ICPM flood.
 
 ### Tools Used
 
+- Linux
 - Wireshark
 
 ### Achievement

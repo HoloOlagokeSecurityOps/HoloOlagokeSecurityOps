@@ -1,9 +1,9 @@
-objective# Google Cybersecurity Professional - Installation in Linux OS
+# Google Cybersecurity Professional - File Permission in Linux OS
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -11,7 +11,6 @@ objective# Google Cybersecurity Professional - Installation in Linux OS
   - [Achievement](#achievement)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -21,7 +20,7 @@ In this scenario, you have to install, uninstall, and reinstall these applicatio
 
 Here’s how you'll do this: First, you’ll confirm that APT is installed on your Linux Bash shell. Next, you’ll use APT to install the Suricata application and confirm that it is installed. Then, you’ll uninstall the Suricata application and confirm this as well. Next, you’ll install the tcpdump application and list the applications currently installed. Finally, you’ll reinstall the Suricata application and confirm that both applications are installed.
 
-### The challenge
+### The objective
 
 - Check permissions for files in a directory
 
@@ -52,6 +51,7 @@ I used cd command line to see my current directory I am working on.
 ### Tools Used
 
 - Linux OS
+- Bash
 
 ### Achievement
 
@@ -66,5 +66,3 @@ I used cd command line to see my current directory I am working on.
 [Twitter](https://twitter.com/olarragoken)
 
 [Instagram](https://www.instagram.com/holoolagoke/)
-
-## Acknowledgments

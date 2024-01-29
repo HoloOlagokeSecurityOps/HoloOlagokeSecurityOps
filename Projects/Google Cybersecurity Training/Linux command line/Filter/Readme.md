@@ -80,7 +80,7 @@ grep "Human Resources" Q4_added_users.txt # search for user add to the Human Res
 ### Tools Used
 
 - Linux OS
-- bash
+- Bash
 
 ### Achievement
 

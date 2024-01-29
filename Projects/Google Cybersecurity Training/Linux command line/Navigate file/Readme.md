@@ -78,7 +78,7 @@ head server_logs.txt #  display 10 lines of the file content.
 ### Tools Used
 
 - Linux OS
-- bash
+- Bash
 
 ### Achievement
 

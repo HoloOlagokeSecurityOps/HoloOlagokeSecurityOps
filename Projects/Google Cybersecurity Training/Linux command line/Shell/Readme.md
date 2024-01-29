@@ -50,7 +50,7 @@ I used ``` echo ``` command  display "Hello" on the bash shell. I used ``` expr 
 ### Tools Used
 
 - Linux OS
-- bash
+- Bash
 
 ### Achievement
 

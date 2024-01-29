@@ -1,9 +1,9 @@
 # Google Cybersecurity Professional - Manage files in Linux OS
 
 ## Table of contents
-objective
+
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -47,7 +47,7 @@ Here’s how you’ll do this: First, you’ll create a new subdirectory called 
 
 You’ll need to use the commands learned in the video lesson to complete these steps.
 
-### The challenge
+### The objective
 
 - Create a new directory
 
@@ -164,7 +164,7 @@ sudo nano tasks.txt # open tasks.txt in nano text editor
 ### Tools Used
 
 - Linux OS
-- bash
+- Bash
 
 ### Achievement
 

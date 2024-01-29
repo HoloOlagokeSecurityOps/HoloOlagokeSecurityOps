@@ -124,6 +124,7 @@ WHERE NOT department = 'IT' /* where department is not from "IT" */
 
 - Linux OS
 - Bash
+- mySQL
 
 ### Achievement
 

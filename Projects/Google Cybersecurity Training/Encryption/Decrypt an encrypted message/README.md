@@ -1,17 +1,15 @@
-objective# Google Cybersecurity Professional - Installation in Linux OS
+# Google Cybersecurity Professional - Decrypt an Encrypted File in Linux OS
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -21,7 +19,7 @@ Here’s how you’ll do this task: First, you’ll explore the contents of the 
 
 OK, it's time to decrypt some messages in Linux!
 
-### The challenge
+### The objective
 
 - List the contents of a directory
 
@@ -35,11 +33,11 @@ OK, it's time to decrypt some messages in Linux!
 
 ### Screenshot
 
-![step 1](./Image/step%201.png)
+![step 1](../Image/step%201.png)
 
-![step 2](./Image/step%202.png)
+![step 2](../Image/step%202.png)
 
-![step 3](./Image/step%203.png)
+![step 3](../Image/step%203.png)
 
 ### Links
 

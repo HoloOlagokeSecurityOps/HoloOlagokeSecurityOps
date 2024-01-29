@@ -63,6 +63,7 @@ I temporarily set the server offline to stop the SYN request caused from DoS so 
 
 ### Tools Used
 
+- Linux
 - Wireshark
 - SIEM
 
