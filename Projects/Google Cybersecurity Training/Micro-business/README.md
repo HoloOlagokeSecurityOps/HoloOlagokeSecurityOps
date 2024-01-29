@@ -41,7 +41,7 @@ This incident could have been be prevent if the employee has been removed since 
 
 ### Achievement
 
-- understand the importance of least privilege and multi factor authentication
+- understand the importance of least privilege and multi-factor authentication
 
 - investigated the incident using the provided event log info compare to the employee directory information
 
