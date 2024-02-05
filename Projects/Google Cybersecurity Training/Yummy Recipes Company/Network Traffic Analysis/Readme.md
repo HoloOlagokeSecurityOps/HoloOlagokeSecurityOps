@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You are a cybersecurity analyst working at a company that specializes in providing IT consultant services. Several customers contacted your company to report that they were not able to access the company website [www.yummyrecipesforme.com](www.yummyrecipesforme.com), and saw the error “destination port unreachable” after waiting for the page to load.
 
@@ -35,7 +35,7 @@ You are tasked with analyzing the situation and determining which network protoc
 
 - [Network Traffic Log](https://docs.google.com/document/d/1lCLnx0bigOZwH0Jp8uUBx5O4Gy5yqxjQDc5GFo_XWko/edit?usp=drive_link)
 
-## My process
+## My approach
 
 After I received the downtime of the company server, I launched tcpdump analyzer to analyze the network traffic to know issue. I load the webpage again while reading the log, a lot of packets was displayed.
 while connecting to IP address 203.0.113.2.domain it respond show an error message “udp port 53 unreachable”

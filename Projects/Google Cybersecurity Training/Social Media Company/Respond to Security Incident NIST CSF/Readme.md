@@ -2,15 +2,15 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 
@@ -58,7 +58,7 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 - [Incident Report Analysis](https://docs.google.com/document/d/1DoKxqOfpebZE6m6A7kgnnPiyhiAJMAzRF9f7FKLs2LY/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I documented the DDoS attackt incident and it impact, and how the security team addressed the issue with new implementation. I used the NIST CSF analyzied the attack incident and how to improved future attack.
 

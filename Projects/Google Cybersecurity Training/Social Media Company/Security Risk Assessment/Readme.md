@@ -2,15 +2,15 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future.
 
@@ -42,7 +42,7 @@ In this activity, you will write a security risk assessment to analyze the incid
 
 - [Security Risk Report](https://docs.google.com/document/d/19t7RyPSw7FxaJzRMYzmlS268pyK2SzCsGwzJbedc7g0/edit?usp=drive_link&resourcekey=0-XpBj-atdelpNO5cnRgLHtQ)
 
-## My process
+## My approach
 
 After the organization experienced  a data breach, which put customer's personal information at risk, the organization want to know the cause for the breach. I investigated the incident and discover four major vulnerabilities; Password are shared among employee, Admin password for database is set as default, a single login grant access no muitifactor authentication, no firewall setting to filter incoming and outgoing traffic
 

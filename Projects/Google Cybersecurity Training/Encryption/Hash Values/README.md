@@ -2,16 +2,16 @@ objective# Google Cybersecurity Professional - Create Hash Values in Linux OS
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 In this scenario, we need to investigate whether two files are identical or different.
 
@@ -41,7 +41,7 @@ Let’s hash some files!
 
 - [create hash values in Linux](https://docs.google.com/document/d/1onM2DhPL2eNFZG-FRr6h4CESSyDVqQMjcf6gPX3i1FE/edit?usp=drive_link)
 
-## My process
+## My approach
 
 To created hash value for each file, I used the following command line
 

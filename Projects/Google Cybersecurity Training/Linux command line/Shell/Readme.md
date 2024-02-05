@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 As a security professional, it’s important to understand the concept of communicating with your computer via the shell.
 
@@ -43,7 +43,7 @@ Get ready to examine input and output in the Bash shell!
 
 - [Input & Output in Linux](https://docs.google.com/document/d/1DYPTmzf77SaCuXKxxIuLcvFwf2QTv1zYLMI7sTrR3BI/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used ``` echo ``` command  display "Hello" on the bash shell. I used ``` expr ``` command perform some mathematical calculation as such 32 - 8 and output was 24.
 

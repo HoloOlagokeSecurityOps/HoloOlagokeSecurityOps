@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 In this scenario, you need to ensure that the /home/analyst directory is properly organized.
 
@@ -77,7 +77,7 @@ You’ll need to use the commands learned in the video lesson to complete these 
 
 - [Manage files in Linux](https://docs.google.com/document/d/1m6VMXOVFDKZXI28ILJ_JOekLq1hPPyAMqsZ4Y38y14Q/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used the following command line to create a directory.
 

@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like.
 
@@ -53,7 +53,7 @@ You take the server offline temporarily so that the machine can recover and retu
 
 [Wireshark TCP/HTTP log](https://docs.google.com/spreadsheets/d/1y7Np71rdEmfIuMeCRgQAzMd66xrK3QGZ2uvGyUwfkF4/edit?usp=drive_link)
 
-## My process
+## My approach
 
 After I received the alert of a problem with the comapny web server, I opened the company website but received a connection timeout error. I launched Wireshark to investigate the traffice incident.
 

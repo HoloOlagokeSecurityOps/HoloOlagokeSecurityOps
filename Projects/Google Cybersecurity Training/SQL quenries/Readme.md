@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 
 
@@ -53,7 +53,7 @@
 
 - [Apply filter to SQL Queries](https://docs.google.com/document/d/1zi7Hpj_sc_XxOjngXCr4dnBOKLQQ3wLWNR7dd2vfK94/edit?usp=drive_link)
 
-## My process
+## My approach
 
 To retrieve failed login attempt, I used the following commands
 

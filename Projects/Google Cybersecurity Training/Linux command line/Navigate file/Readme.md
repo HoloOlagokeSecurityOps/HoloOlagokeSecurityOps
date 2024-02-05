@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 In this scenario, you have to locate and analyze the information of certain files located in the /home/analyst directory.
 
@@ -47,7 +47,7 @@ To complete these tasks, you'll need to use commands that you've previously lear
 
 - [Navigate files in Linux](https://docs.google.com/document/d/1PYGY1tX9rkLaWHGJR2thcL8pXZFsDnZOyWDqeW1-NGQ/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used ``` pwd ``` command  display the directory I am working on. I used ``` cd ``` command with the file path ```/home/analyst/reports``` to  change my directory location from analyst to reports directory, I then used ``` ls ``` command to list the contents in the reports directory.
 

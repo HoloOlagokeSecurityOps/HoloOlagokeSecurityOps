@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You've joined a new cybersecurity team at a commercial bank. The team is conducting a risk assessment of the bank's current operational environment. As part of the assessment, they are creating a risk register to help them focus on securing the most vulnerable risks.
 
@@ -33,7 +33,7 @@ Your supervisor asks you to evaluate a set of risks that the cybersecurity team 
 
 [Risk Register](https://docs.google.com/document/d/17s3diCDBkui4cqlrx0GnBypdzLHCx4W-GJuVdpSKd0A/edit?usp=drive_link&resourcekey=0-NchTWZfUkloYoYl1PDlgQQ)
 
-## My process
+## My approach
 
 The bank operation center seen to be safe but the bank data handling is weak. This will cause a negative impact on the bank and it operations. Bank assets are categorized according to their likehood, severity and priority.
 

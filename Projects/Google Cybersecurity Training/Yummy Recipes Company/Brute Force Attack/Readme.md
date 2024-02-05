@@ -2,17 +2,17 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You are a cybersecurity analyst for yummyrecipesforme.com, a website that sells recipes and cookbooks. A disgruntled baker has decided to publish the website’s best-selling recipes for the public to access for free.
 
@@ -66,7 +66,7 @@ Your job is to document the incident in detail, including identifying the networ
 
 - [DNS & HPPT Traffic Log](https://docs.google.com/document/d/1cybgKs-biF4SpiigCwdBicbOmCZ65LO8kx4OlLmGo4Y/edit?usp=drive_link&resourcekey=0-exso31cdETPGQSANGUXbgw)
 
-## My process
+## My approach
 
 After serveral complain from customer, I created a sandbox environment and run tcpdump network protocal analyer to observe the suspicious website behavior. while all tool are open for invesstigation I type the company URL [www.yummyrecipesforme.com](www.yummyrecipesforme.com) on the browser in the sandbox enviroment I created.
 

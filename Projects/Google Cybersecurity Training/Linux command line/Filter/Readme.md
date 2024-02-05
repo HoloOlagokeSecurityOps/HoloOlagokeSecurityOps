@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 In this scenario, you need to obtain information contained in server log and user data files. You also need to find files with specific names.
 
@@ -39,7 +39,7 @@ Here’s how you’ll do this: First, you’ll navigate to the logs directory an
 
 - [Filter a file in Linux](https://docs.google.com/document/d/12M2mXg9gwTNTVOmy-DHB4CIrDx5kMhY526VE5EHLBAQ/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used the following command line to serach server_logs.txt for error string.
 

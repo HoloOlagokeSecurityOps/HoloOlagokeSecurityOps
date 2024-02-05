@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 Your role as a security analyst requires that you have the Suricata and tcpdump network security applications installed on your system.
 
@@ -51,7 +51,7 @@ Here’s how you'll do this: First, you’ll confirm that APT is installed on yo
 
 - [App installation in Linux](https://docs.google.com/document/d/1JOGUeJNNfQvdiyITz1f7-QJQo77roo-5wxFXc9m3kn8/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used ``` apt ``` command  to ensure that Advanced Package Tool is installed.
 

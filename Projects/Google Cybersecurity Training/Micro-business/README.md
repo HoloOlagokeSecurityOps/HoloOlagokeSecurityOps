@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You’re the first cybersecurity professional hired by a growing business.
 
@@ -33,7 +33,7 @@ To do this, you’ll need to do some accounting on the incident to better unders
 
 [Accounting Execise](https://docs.google.com/spreadsheets/d/1ODsA7utZ5UkPUiaGWzhW-h4xXI4z431tkZWdYX8KnA0/edit?usp=drive_link&resourcekey=0-iWJp3seqB88RdDPtZwYw8Q)
 
-## My process
+## My approach
 
 I began the investigation by reviewing the event log, the details of the log shows when and whose computer did the fund transfer. The transaction was done on 10/03/2023 at 8:29:57am by Legal/Administrator user who use Up2-NoGud computer and the IP address is 152.207.255.255, after I got the basic info intruder I compared info it with the employee directory info. I trace down the employee who use the above computer and IP address informations, I found out that the employee name is Robert Taylor Jr. This employee is a contract worker and his service in the organzation has already ended since 2019 (4 years ago) but he was not remove from the organization system. this gave him the privilege to access the organization system and did the fund transfer
 

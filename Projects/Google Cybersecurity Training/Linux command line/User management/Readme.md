@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 In this scenario, a new employee with the username researcher9 joins an organization. You have to add them to the system and continue to manage their access during their time with the organization.
 
@@ -43,7 +43,7 @@ Here’s how you’ll do this task: First, you’ll add a new employee to the sy
 
 - [Add and Manage User in Linux](https://docs.google.com/document/d/1aChVIUYe0wAcs3NSJngL8JWF6FeuouI5gCUIA0LqdCw/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used the following command line to add a new user system.
 

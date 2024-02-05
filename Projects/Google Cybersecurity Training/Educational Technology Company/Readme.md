@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You work for an educational technology company that developed an application to help teachers automatically grade assignments. The application handles a wide range of data that it collects from academic institutions, instructors, parents, and students.
 
@@ -35,7 +35,7 @@ First, you'll need to evaluate details about the incident. Then, you'll review t
 
 [Risk Register](https://docs.google.com/document/d/17s3diCDBkui4cqlrx0GnBypdzLHCx4W-GJuVdpSKd0A/edit?usp=drive_link&resourcekey=0-NchTWZfUkloYoYl1PDlgQQ)
 
-## My process
+## My approach
 
 The bank operation center seen to be safe but the bank data handling is weak. This will cause a negative impact on the bank and it operations. Bank assets are categorized according to their likehood, severity and priority.
 

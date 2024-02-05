@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Tools used](#tools-used)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 In this scenario, all of the files in your home directory have been encrypted. You’ll need to use Linux commands to break the Caesar cipher and decrypt the files so that you can read the hidden messages they contain.
 
@@ -45,7 +45,7 @@ OK, it's time to decrypt some messages in Linux!
 
 - [Decrypt an encrypted message in Linux](https://docs.google.com/document/d/1uyldNPjUKQ_8dekm4EsdSwbpUxr1QneHtUooSOualUw/edit?usp=drive_link)
 
-## My process
+## My approach
 
 I used ``` ls ``` command to display the content of my current directory, I found one directory named caesar, and two files; an encrypted file Q1.encrypted and a README.txt file that contain a guideline to decrypt the encrypted file.
 

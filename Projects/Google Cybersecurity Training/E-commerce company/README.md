@@ -2,16 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You are a newly hired cybersecurity analyst for an e-commerce company. The company stores information on a remote database server, since many of the employees work remotely from locations all around the world. Employees of the company regularly query, or request, data from the server to find potential customers. The database has been open to the public since the company's launch three years ago. As a cybersecurity professional, you recognize that keeping the database server open to the public is a serious vulnerability.
 
@@ -33,7 +33,7 @@ A vulnerability assessment of the situation can help you communicate the potenti
   
 - [Vulnerability Assessment Report](https://docs.google.com/document/d/1_WrLm7WtOurpzeRsshJ2mUTlJ2u6mxR08SYHxZ7CpyM/edit?usp=drive_link)
 
-## My process
+## My approach
 
 The system description details what type of database server we use, the feature and capacity. The scope details the period of assessment and guildlines followed during the assessment. The purpose of the database server is serve as a storage for customer information and business product documentation.
 

@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Scenario](#scenario)
   - [The objective](#the-objective)
   - [Links](#links)
-- [My process](#my-process)
+- [My approach](#my-approach)
   - [Achievement](#achievement)
 - [Author](#author)
 
-## Overview
+## Scenario
 
 You’re operating a small business from your home and must create an inventory of your network devices. This will help you determine which ones contain sensitive information that require extra protection.
 
@@ -45,7 +45,7 @@ Then, you’ll list important characteristics of each device such as its owner, 
 
 [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1jLy7DJPz4Gl_nj9xS6O5HrUt3riw5J1Lj3zC4G8KvqQ/edit?usp=drive_link&resourcekey=0-TOZDx8-aOswoWCSjadYbpQ)
 
-## My process
+## My approach
 
 I classified each asset to their sensitive and access to network. My Network router, Servers and Desktop computer will continuely has access to the network and are highly sensitive for this reason they are kept confidentially and restricted.
 
