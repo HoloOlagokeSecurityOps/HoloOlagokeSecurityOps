@@ -37,8 +37,9 @@ I am aspiring and dedicated Cyber-security enthusiast seeking to leverage theore
 # SOCIAL MEDIA:
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 30px; height: 50px;"></a> 
-  <a href="https://twitter.com/olarragoken"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 30px; height: 50px;"></a>
-  <a href="https://www.instagram.com/holoolagoke/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a>
-  <a href="https://web.facebook.com/olagoke.holo.3/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a>
+  <a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 30px; height: 50px; margin-right: 300%"></a>
+  <a href="https://twitter.com/holo_secure_ops"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 30px; height: 50px;"></a>
+  <a href="https://www.instagram.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a>
+  <a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloOlagoke | Facebook" style="width: 30px; height: 50px;"></a>
+    <a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="HoloOlagoke | Tiktok" style="width: 30px; height: 50px;"></a>
 </div>
