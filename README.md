@@ -16,11 +16,18 @@ I am aspiring and dedicated Cyber-security enthusiast seeking to leverage theore
 
 # LANGUAGES & TOOLS:
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="./Projects/icon/WIreshark icon.png" alt="wireshark" width="40" height="40"/> </p>
+<div style="display: flex; gap: 3%;">
+<div><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></div>
+
+<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></div>
+
+<div><img src="./Projects/icon/sqlite3.jpeg" alt="sqlite3" width="40" height="40"/></div>
+
+<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></div>
+
+<div><img src="./Projects/icon/WIreshark icon.png" alt="wireshark" width="40" height="40"/></div>
+</div>
+
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=holoolagokesecurityops&show_icons=true&locale=en&layout=compact" alt="holoolagokesecurityops" /></p>-->
 
@@ -36,10 +43,14 @@ I am aspiring and dedicated Cyber-security enthusiast seeking to leverage theore
 
 # SOCIAL MEDIA:
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 30px; height: 50px; margin-right: 300%"></a>
-  <a href="https://twitter.com/holo_secure_ops"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 30px; height: 50px;"></a>
-  <a href="https://www.instagram.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a>
-  <a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloOlagoke | Facebook" style="width: 30px; height: 50px;"></a>
-    <a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="HoloOlagoke | Tiktok" style="width: 30px; height: 50px;"></a>
+<div style="display: flex; gap: 3%;">
+  <div><a href="https://www.linkedin.com/in/olagoke-holo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="HoloOlagoke | LinkedIn" style="width: 30px; height: 50px;"></a></div>
+
+  <div><a href="https://twitter.com/holo_secure_ops"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="HoloOlagoke | Twitter" style="width: 30px; height: 50px;"></a></div>
+
+  <div><a href="https://www.instagram.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="HoloOlagoke | Instagram" style="width: 30px; height: 50px;"></a></div>
+
+  <div><a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="HoloOlagoke | Facebook" style="width: 30px; height: 50px;"></a></div>
+
+  <div><a href="https://web.facebook.com/holo.olagoke.secure.ops/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" alt="HoloOlagoke | Tiktok" style="width: 30px; height: 50px;"></a></div>
 </div>
